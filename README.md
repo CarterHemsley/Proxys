@@ -1,2 +1,2 @@
-# Gamehub
-Games.
+# Proxys
+Proxys.
